@@ -22,11 +22,12 @@ To run the code in this project, you need the following Python packages:
 
 You can install these packages using pip:
 
-```bash
+```
 pip install pandas matplotlib seaborn
-<br>
-## Dataset
+```
 
+
+## Dataset
 The dataset used in this project is assumed to be in CSV format and should contain COVID-19 data such as cases, deaths, and recoveries for multiple countries and regions.
 
 ## Usage
