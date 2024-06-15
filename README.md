@@ -90,35 +90,3 @@ The code in the Jupyter notebook is structured as follows:
 
 The line plot provides a visual representation of the trends in COVID-19 cases over time across different countries. This helps in understanding the spread and impact of the virus in various regions.
 
-## How to Create and Edit `README.md` in VS Code
-
-1. **Open VS Code**: Launch Visual Studio Code.
-
-2. **Create a New File**:
-   - Go to `File` > `New File` or press `Ctrl+N` (Windows/Linux) or `Cmd+N` (Mac).
-
-3. **Save the File as `README.md`**:
-   - Go to `File` > `Save As` or press `Ctrl+S` (Windows/Linux) or `Cmd+S` (Mac).
-   - In the save dialog, name the file `README.md` and choose the directory where you want to save it.
-
-4. **Paste the Content**:
-   - Copy the content provided above.
-   - Paste it into the newly created `README.md` file in VS Code.
-
-5. **Save the File**:
-   - Save the file again by pressing `Ctrl+S` (Windows/Linux) or `Cmd+S` (Mac).
-
-## No Need for HTML Tags
-
-Markdown files (`.md`) use a simple, plain-text syntax that is easy to write and read. There is no need to use HTML tags unless you want to include advanced formatting that Markdown does not support natively. The content provided is already in Markdown format, which VS Code supports natively.
-
-## Viewing the Markdown Preview
-
-To view how your Markdown file will look when rendered:
-
-1. **Open the Markdown Preview**:
-   - In VS Code, with your `README.md` file open, press `Ctrl+Shift+V` (Windows/Linux) or `Cmd+Shift+V` (Mac) to open the Markdown preview.
-   - Alternatively, right-click on the editor tab and select `Open Preview`.
-
-2. **Side-by-Side Editing**:
-   - You can split the editor to see the Markdown file and the preview side by side. Press `Ctrl+K V` (Windows/Linux) or `Cmd+K V` (Mac).
