@@ -74,7 +74,7 @@ The code in the Jupyter notebook is structured as follows:
     This code cleans the data by removing rows with missing values and converting the date column to datetime format.
 
 ### 4. Visualizing the Data
-    ```python
+    ```
     plt.figure(figsize=(14, 7))
     sns.lineplot(x='date', y='cases', hue='country', data=data)
     plt.title('COVID-19 Cases Over Time')
@@ -85,6 +85,9 @@ The code in the Jupyter notebook is structured as follows:
     plt.show()
     ```
     This code creates a line plot to visualize the number of COVID-19 cases over time for different countries.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Results
 
