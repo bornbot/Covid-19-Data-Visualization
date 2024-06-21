@@ -7,6 +7,7 @@ Visualization and analysis of COVID-19 data to understand the virus's spread and
 - [Dataset](#dataset)
 - [Usage](#usage)
 - [Code Explanation](#code-explanation)
+- [LICENSE](#license)
 - [Results](#results)
 
 ## Introduction
